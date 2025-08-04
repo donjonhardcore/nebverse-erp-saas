@@ -1,0 +1,1 @@
+export default { PRIMARY: { code: '#007bff' }, SECONDARY: { code: '#6c757d' }, SUCCESS: { code: '#28a745' }, INFO: { code: '#17a2b8' }, WARNING: { code: '#ffc107' }, DANGER: { code: '#dc3545' }, DARK: { code: '#343a40' }, LIGHT: { code: '#f8f9fa' } };
